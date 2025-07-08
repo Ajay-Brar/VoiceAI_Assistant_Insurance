@@ -1,4 +1,4 @@
-# VoiceAI_Insurance_Agent
+# VoiceAI_Assistant_Insurance
 
 🛡️ Insurance Voice AI Assistant – Powered by Twilio + Groq
 This project is a voice-based AI sales assistant for insurance providers, built using FastAPI, Twilio, and Groq’s LLaMA 3. It makes outbound calls, 
